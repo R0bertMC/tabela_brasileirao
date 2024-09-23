@@ -1,0 +1,434 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Tabela Brasileirão 2024</title>
+</head>
+<body>
+    <table>
+        <thead>
+            <tr>
+                <th colspan="3" width="150px">Clube</th>
+                <th>P</th>
+                <th>J</th>
+                <th>V</th>
+                <th>E</th>
+                <th>D</th>
+                <th>GM</th>
+                <th>GC</th>
+                <th>SG</th>
+                <th>Ultimos jogos</th>
+            </tr>
+        </thead>
+        <tbody>
+            <!-- tr>td*12 -->
+            <tr>
+                <td>1</td>
+                <td><img height="22px" src="https://ssl.gstatic.com/onebox/media/sports/logos/KLDWYp-H8CAOT9H_JgizRg_48x48.png" alt=""></td>
+                <td>Botafogo</td>
+                <td>56</td>
+                <td>27</td>
+                <td>17</td>
+                <td>5</td>
+                <td>5</td>
+                <td>46</td>
+                <td>25</td>
+                <td>21</td>
+                <td>
+                    <img src="/teste/assets/images/brasileirao/v.svg" alt="">
+                    <img src="/teste/assets/images/brasileirao/empate.svg" alt="">
+                    <img src="/teste/assets/images/brasileirao/v.svg" alt="">
+                    <img src="/teste/assets/images/brasileirao/v.svg" alt="">
+                    <img src="/teste/assets/images/brasileirao/v.svg" alt="">
+                </td>
+            </tr>
+            <tr>
+                <td>2</td>
+                <td><img height="22px" src="https://www.bing.com/th?id=OSB.%7c%7c57YTXrDPlBlRvdxLIw6Q--.png&w=50&h=50&c=6&qlt=90&o=6&dpr=2&pid=BingSports" alt=""></td>
+                <td>Palmeiras</td>
+                <td>53</td>
+                <td>27</td>
+                <td>16</td>
+                <td>6</td>
+                <td>5</td>
+                <td>44</td>
+                <td>19</td>
+                <td>25</td>
+                <td>
+                    <img src="/teste/assets/images/brasileirao/v.svg" alt="">
+                    <img src="/teste/assets/images/brasileirao/v.svg" alt="">
+                    <img src="/teste/assets/images/brasileirao/v.svg" alt="">
+                    <img src="/teste/assets/images/brasileirao/v.svg" alt="">
+                    <img src="/teste/assets/images/brasileirao/v.svg" alt="">
+                </td>
+            </tr>
+            <tr>
+                <td>3</td>
+                <td><img height="22px" src="https://ssl.gstatic.com/onebox/media/sports/logos/me10ephzRxdj45zVq1Risg_48x48.png" alt=""></td>
+                <td>Fortaleza</td>
+                <td>52</td>
+                <td>27</td>
+                <td>15</td>
+                <td>5</td>
+                <td>7</td>
+                <td>36</td>
+                <td>26</td>
+                <td>10</td>
+                <td>
+                    <img src="/teste/assets/images/brasileirao/v.svg" alt="">
+                    <img src="/teste/assets/images/brasileirao/v.svg" alt="">
+                    <img src="/teste/assets/images/brasileirao/d.svg" alt="">
+                    <img src="/teste/assets/images/brasileirao/empate.svg" alt="">
+                    <img src="/teste/assets/images/brasileirao/v.svg" alt="">
+                </td>
+
+            </tr>
+            <tr>
+                <td>4</td>
+                <td><img height="22px" src="https://www.bing.com/th?id=OSB.fvihQqJ%7ckz1DvqUOqFzngw--.png&w=24&h=24&c=6&qlt=90&o=6&dpr=2&pid=BingSports" alt=""></td>
+                <td>Flamengo</td>
+                <td>45</td>
+                <td>25</td>
+                <td>13</td>
+                <td>6</td>
+                <td>6</td>
+                <td>40</td>
+                <td>29</td>
+                <td>10</td>
+                <td>
+                    <img src="/teste/assets/images/brasileirao/d.svg" alt="">
+                    <img src="/teste/assets/images/brasileirao/v.svg" alt="">
+                    <img src="/teste/assets/images/brasileirao/d.svg" alt="">
+                    <img src="/teste/assets/images/brasileirao/empate.svg" alt="">
+                    <img src="/teste/assets/images/brasileirao/d.svg" alt="">
+                </td>
+            </tr>
+            <tr>
+                <td>5</td>
+                <td><img height="22px" src="https://www.bing.com/th?id=OSB.WByDEwcKCNXVs_dKuiwAqA--.png&w=24&h=24&c=6&qlt=90&o=6&dpr=2&pid=BingSports" alt=""></td>
+                <td>São Paulo</td>
+                <td>44</td>
+                <td>27</td>
+                <td>13</td>
+                <td>8</td>
+                <td>5</td>
+                <td>34</td>
+                <td>26</td>
+                <td>6</td>
+                <td>
+                    <img src="/teste/assets/images/brasileirao/d.svg" alt="">
+                    <img src="/teste/assets/images/brasileirao/v.svg" alt="">
+                    <img src="/teste/assets/images/brasileirao/d.svg" alt="">
+                    <img src="/teste/assets/images/brasileirao/v.svg" alt="">
+                    <img src="/teste/assets/images/brasileirao/d.svg" alt="">
+                </td>
+            </tr>
+            <tr>
+                <td>6</td>
+                <td><img height="22px" src="https://www.bing.com/th?id=OSB._cwPDpr4AFCzAIX0b%7cn7Sg--.png&w=24&h=24&c=6&qlt=90&o=6&dpr=2&pid=BingSports" alt=""></td>
+                <td>Bahia</td>
+                <td>42</td>
+                <td>27</td>
+                <td>12</td>
+                <td>9</td>
+                <td>6</td>
+                <td>38</td>
+                <td>26</td>
+                <td>7</td>
+                <td>
+                    <img src="/teste/assets/images/brasileirao/v.svg" alt="">
+                    <img src="/teste/assets/images/brasileirao/empate.svg" alt="">
+                    <img src="/teste/assets/images/brasileirao/d.svg" alt="">
+                    <img src="/teste/assets/images/brasileirao/v.svg" alt="">
+                    <img src="/teste/assets/images/brasileirao/d.svg" alt="">
+                </td>
+            </tr>
+            <tr>
+                <td>7</td>
+                <td><img height="22px" src="https://www.bing.com/th?id=OSB.PKvjwQQm97AjaP1eENjWqw--.png&w=24&h=24&c=6&qlt=90&o=6&dpr=2&pid=BingSports" alt=""></td>
+                <td>Cruzeiro</td>
+                <td>41</td>
+                <td>26</td>
+                <td>12</td>
+                <td>9</td>
+                <td>5</td>
+                <td>34</td>
+                <td>27</td>
+                <td>7</td>
+                <td>
+                    <img src="/teste/assets/images/brasileirao/empate.svg" alt="">
+                    <img src="/teste/assets/images/brasileirao/d.svg" alt="">
+                    <img src="/teste/assets/images/brasileirao/v.svg" alt="">
+                    <img src="/teste/assets/images/brasileirao/d.svg" alt="">
+                    <img src="/teste/assets/images/brasileirao/empate.svg" alt="">
+                </td>
+            </tr>
+            <tr>
+                <td>8</td>
+                <td><img height="22px" src="https://www.bing.com/th?id=OSB.SYQimgqYOomcAu4EFXQxkw--.png&w=24&h=24&c=6&qlt=90&o=6&dpr=2&pid=BingSports" alt=""></td>
+                <td>Internacional</td>
+                <td>38</td>
+                <td>26</td>
+                <td>12</td>
+                <td>9</td>
+                <td>8</td>
+                <td>27</td>
+                <td>20</td>
+                <td>9</td>
+                <td>
+                    <img src="/teste/assets/images/brasileirao/d.svg" alt="">
+                    <img src="/teste/assets/images/brasileirao/v.svg" alt="">
+                    <img src="/teste/assets/images/brasileirao/v.svg" alt="">
+                    <img src="/teste/assets/images/brasileirao/v.svg" alt="">
+                    <img src="/teste/assets/images/brasileirao/v.svg" alt="">
+                </td>
+            </tr>
+            <tr>
+                <td>9</td>
+                <td><img height="22px" src="https://www.bing.com/th?id=OSB.sHngD2x7J5CQC089hkoUSA--.png&w=24&h=24&c=6&qlt=90&o=6&dpr=2&pid=BingSports" alt=""></td>
+                <td>Atletico Mineiro</td>
+                <td>36</td>
+                <td>25</td>
+                <td>9</td>
+                <td>7</td>
+                <td>9</td>
+                <td>35</td>
+                <td>36</td>
+                <td>-1</td>
+                <td>
+                    <img src="/teste/assets/images/brasileirao/empate.svg" alt="">
+                    <img src="/teste/assets/images/brasileirao/d.svg" alt="">
+                    <img src="/teste/assets/images/brasileirao/v.svg" alt="">
+                    <img src="/teste/assets/images/brasileirao/d.svg" alt="">
+                    <img src="/teste/assets/images/brasileirao/v.svg" alt="">
+                </td>
+            </tr>
+            <tr>
+                <td>10</td>
+                <td><img height="22px" src="https://www.bing.com/th?id=OSB.VvsOG5IVF2NW9kHY5BNFeQ--.png&w=24&h=24&c=6&qlt=90&o=6&dpr=2&pid=BingSports" alt=""></td>
+                <td>Vasco</td>
+                <td>35</td>
+                <td>26</td>
+                <td>10</td>
+                <td>11</td>
+                <td>5</td>
+                <td>30</td>
+                <td>36</td>
+                <td>-6</td>
+                <td>
+                    <img src="/teste/assets/images/brasileirao/empate.svg" alt="">
+                    <img src="/teste/assets/images/brasileirao/v.svg" alt="">
+                    <img src="/teste/assets/images/brasileirao/v.svg" alt="">
+                    <img src="/teste/assets/images/brasileirao/empate.svg" alt="">
+                    <img src="/teste/assets/images/brasileirao/d.svg" alt="">
+                </td>
+            </tr>
+            <tr>
+                <td>11</td>
+                <td><img height="22px" src="https://www.bing.com/th?id=OSB.WQVBBDAQoXnFEau1j6JnFQ--.png&w=24&h=24&c=6&qlt=90&o=6&dpr=2&pid=BingSports" alt=""></td>
+                <td>EC Juventude</td>
+                <td>32</td>
+                <td>27</td>
+                <td>8</td>
+                <td>11</td>
+                <td>8</td>
+                <td>31</td>
+                <td>37</td>
+                <td>-6</td>
+                <td>
+                    <img src="/teste/assets/images/brasileirao/v.svg" alt="">
+                    <img src="/teste/assets/images/brasileirao/d.svg" alt="">
+                    <img src="/teste/assets/images/brasileirao/d.svg" alt="">
+                    <img src="/teste/assets/images/brasileirao/v.svg" alt="">
+                    <img src="/teste/assets/images/brasileirao/d.svg" alt="">
+                </td>
+            </tr>
+            <tr>
+                <td>12</td>
+                <td><img height="22px" src="https://www.bing.com/th?id=OSB.7KeCuypUXttv_PnOGVQBRQ--.png&w=24&h=24&c=6&qlt=90&o=6&dpr=2&pid=BingSports" alt=""></td>
+                <td>Gremio</td>
+                <td>31</td>
+                <td>25</td>
+                <td>9</td>
+                <td>12</td>
+                <td>4</td>
+                <td>28</td>
+                <td>32</td>
+                <td>-4</td>
+                <td>
+                    <img src="/teste/assets/images/brasileirao/d.svg" alt="">
+                    <img src="/teste/assets/images/brasileirao/v.svg" alt="">
+                    <img src="/teste/assets/images/brasileirao/d.svg" alt="">
+                    <img src="/teste/assets/images/brasileirao/empate.svg" alt="">
+                    <img src="/teste/assets/images/brasileirao/v.svg" alt="">
+                </td>
+            </tr>
+            <tr>
+                <td>13</td>
+                <td><img height="22px" src="https://www.bing.com/th?id=OSB.vm2Iqy4HJl3TyxguARiKMA--.png&w=24&h=24&c=6&qlt=90&o=6&dpr=2&pid=BingSports" alt=""></td>
+                <td>CA Paranaense</td>
+                <td>31</td>
+                <td>25</td>
+                <td>8</td>
+                <td>10</td>
+                <td>7</td>
+                <td>27</td>
+                <td>29</td>
+                <td>-2</td>
+                <td>
+                    <img src="/teste/assets/images/brasileirao/d.svg" alt="">
+                    <img src="/teste/assets/images/brasileirao/d.svg" alt="">
+                    <img src="/teste/assets/images/brasileirao/d.svg" alt="">
+                    <img src="/teste/assets/images/brasileirao/empate.svg" alt="">
+                    <img src="/teste/assets/images/brasileirao/empate.svg" alt="">
+                </td>
+            </tr>
+            <tr>
+                <td>14</td>
+                <td><img height="22px" src="https://www.bing.com/th?id=OSB.MPqpx3Y1RKrKyxa7Msr5Hw--.png&w=24&h=24&c=6&qlt=90&o=6&dpr=2&pid=BingSports" alt=""></td>
+                <td>Red Bull Bragantino</td>
+                <td>31</td>
+                <td>26</td>
+                <td>8</td>
+                <td>11</td>
+                <td>7</td>
+                <td>31</td>
+                <td>35</td>
+                <td>-4</td>
+                <td>
+                    <img src="/teste/assets/images/brasileirao/d.svg" alt="">
+                    <img src="/teste/assets/images/brasileirao/d.svg" alt="">
+                    <img src="/teste/assets/images/brasileirao/v.svg" alt="">
+                    <img src="/teste/assets/images/brasileirao/empate.svg" alt="">
+                    <img src="/teste/assets/images/brasileirao/d.svg" alt="">
+                </td>
+            </tr>
+            <tr>
+                <td>15</td>
+                <td><img height="22px" src="https://www.bing.com/th?id=OSB.Hst_yKZKxjW5VKKJFX_iAg--.png&w=24&h=24&c=6&qlt=90&o=6&dpr=2&pid=BingSports" alt=""></td>
+                <td>Criciúma</td>
+                <td>29</td>
+                <td>26</td>
+                <td>8</td>
+                <td>15</td>
+                <td>4</td>
+                <td>29</td>
+                <td>39</td>
+                <td>-10</td>
+                <td>
+                    <img src="/teste/assets/images/brasileirao/empate.svg" alt="">
+                    <img src="/teste/assets/images/brasileirao/d.svg" alt="">
+                    <img src="/teste/assets/images/brasileirao/d.svg" alt="">
+                    <img src="/teste/assets/images/brasileirao/d.svg" alt="">
+                    <img src="/teste/assets/images/brasileirao/empate.svg" alt="">
+                </td>
+            </tr>
+            <tr>
+                <td>16</td>
+                <td><img height="22px" src="https://www.bing.com/th?id=OSB.Z_R8g1WK0HCBMg2K93sZqA--.png&w=24&h=24&c=6&qlt=90&o=6&dpr=2&pid=BingSports" alt=""></td>
+                <td>Vitória</td>
+                <td>28</td>
+                <td>27</td>
+                <td>7</td>
+                <td>11</td>
+                <td>8</td>
+                <td>32</td>
+                <td>40</td>
+                <td>-10</td>
+                <td>
+                    <img src="/teste/assets/images/brasileirao/empate.svg" alt="">
+                    <img src="/teste/assets/images/brasileirao/d.svg" alt="">
+                    <img src="/teste/assets/images/brasileirao/d.svg" alt="">
+                    <img src="/teste/assets/images/brasileirao/v.svg" alt="">
+                    <img src="/teste/assets/images/brasileirao/v.svg" alt="">
+                </td>
+            </tr>
+            <tr>
+                <td>17</td>
+                <td><img height="22px" src="https://www.bing.com/th?id=OSB.ilvcUKR0cj9_4pk99pXuuQ--.png&w=24&h=24&c=6&qlt=90&o=6&dpr=2&pid=BingSports" alt=""></td>
+                <td>Corinthians</td>
+                <td>28</td>
+                <td>27</td>
+                <td>6</td>
+                <td>11</td>
+                <td>10</td>
+                <td>26</td>
+                <td>33</td>
+                <td>-7</td>
+                <td>
+                    <img src="/teste/assets/images/brasileirao/empate.svg" alt="">
+                    <img src="/teste/assets/images/brasileirao/d.svg" alt="">
+                    <img src="/teste/assets/images/brasileirao/v.svg" alt="">
+                    <img src="/teste/assets/images/brasileirao/d.svg" alt="">
+                    <img src="/teste/assets/images/brasileirao/v.svg" alt="">
+                </td>
+            </tr>
+            <tr>
+                <td>18</td>
+                <td><img height="22px" src="https://www.bing.com/th?id=OSB.8710TGNn3ooQIp8wx%7cCcDA--.png&w=24&h=24&c=6&qlt=90&o=6&dpr=2&pid=BingSports" alt=""></td>
+                <td>Fluminense</td>
+                <td>27</td>
+                <td>26</td>
+                <td>7</td>
+                <td>13</td>
+                <td>6</td>
+                <td>21</td>
+                <td>29</td>
+                <td>-8</td>
+                <td>
+                    <img src="/teste/assets/images/brasileirao/empate.svg" alt="">
+                    <img src="/teste/assets/images/brasileirao/v.svg" alt="">
+                    <img src="/teste/assets/images/brasileirao/v.svg" alt="">
+                    <img src="/teste/assets/images/brasileirao/d.svg" alt="">
+                    <img src="/teste/assets/images/brasileirao/d.svg" alt="">
+                </td>
+            </tr>
+            <tr>
+                <td>19</td>
+                <td><img height="22px" src="https://www.bing.com/th?id=OSB.Heh5CAbb%7ciOAuZkDOk6mjg--.png&w=24&h=24&c=6&qlt=90&o=6&dpr=2&pid=BingSports" alt=""></td>
+                <td>Cuiabá</td>
+                <td>22</td>
+                <td>25</td>
+                <td>7</td>
+                <td>13</td>
+                <td>7</td>
+                <td>23</td>
+                <td>38</td>
+                <td>-15</td>
+                <td>
+                    <img src="/teste/assets/images/brasileirao/empate.svg" alt="">
+                    <img src="/teste/assets/images/brasileirao/d.svg" alt="">
+                    <img src="/teste/assets/images/brasileirao/v.svg" alt="">
+                    <img src="/teste/assets/images/brasileirao/d.svg" alt="">
+                    <img src="/teste/assets/images/brasileirao/empate.svg" alt="">
+                </td>
+            </tr>
+            <tr>
+                <td>20</td>
+                <td><img height="22px" src="https://www.bing.com/th?id=OSB.Ju6yPsanYhaEr3tGQLBXrA--.png&w=50&h=50&c=6&qlt=90&o=6&dpr=2&pid=BingSports" alt=""></td>
+                <td>AC Goianiense</td>
+                <td>18</td>
+                <td>27</td>
+                <td>4</td>
+                <td>17</td>
+                <td>6</td>
+                <td>21</td>
+                <td>45</td>
+                <td>-24</td>
+                <td>
+                    <img src="/teste/assets/images/brasileirao/v.svg" alt="">
+                    <img src="/teste/assets/images/brasileirao/v.svg" alt="">
+                    <img src="/teste/assets/images/brasileirao/d.svg" alt="">
+                    <img src="/teste/assets/images/brasileirao/d.svg" alt="">
+                    <img src="/teste/assets/images/brasileirao/d.svg" alt="">
+                </td>
+            </tr>
+            <tr>
+        </tbody>
+        <tfoot>
+            <tr></tr>
+        </tfoot>
+    </table>
+</body>
+</html>
